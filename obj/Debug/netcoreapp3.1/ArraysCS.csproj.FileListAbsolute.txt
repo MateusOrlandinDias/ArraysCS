@@ -1,0 +1,14 @@
+C:\dev\ArraysCS\bin\Debug\netcoreapp3.1\ArraysCS.exe
+C:\dev\ArraysCS\bin\Debug\netcoreapp3.1\ArraysCS.deps.json
+C:\dev\ArraysCS\bin\Debug\netcoreapp3.1\ArraysCS.runtimeconfig.json
+C:\dev\ArraysCS\bin\Debug\netcoreapp3.1\ArraysCS.runtimeconfig.dev.json
+C:\dev\ArraysCS\bin\Debug\netcoreapp3.1\ArraysCS.dll
+C:\dev\ArraysCS\bin\Debug\netcoreapp3.1\ArraysCS.pdb
+C:\dev\ArraysCS\obj\Debug\netcoreapp3.1\ArraysCS.csproj.AssemblyReference.cache
+C:\dev\ArraysCS\obj\Debug\netcoreapp3.1\ArraysCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ArraysCS\obj\Debug\netcoreapp3.1\ArraysCS.AssemblyInfoInputs.cache
+C:\dev\ArraysCS\obj\Debug\netcoreapp3.1\ArraysCS.AssemblyInfo.cs
+C:\dev\ArraysCS\obj\Debug\netcoreapp3.1\ArraysCS.csproj.CoreCompileInputs.cache
+C:\dev\ArraysCS\obj\Debug\netcoreapp3.1\ArraysCS.dll
+C:\dev\ArraysCS\obj\Debug\netcoreapp3.1\ArraysCS.pdb
+C:\dev\ArraysCS\obj\Debug\netcoreapp3.1\ArraysCS.genruntimeconfig.cache
